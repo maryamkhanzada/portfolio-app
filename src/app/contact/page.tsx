@@ -10,10 +10,10 @@ const Contact = () => {
         Contact Us
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-cyan-200">
-      "Feel free to reach out if you have any questions or if you'd like to collaborate. 
-      Whether you need help with web design or just want to connect, I'd be happy to hear
-       from you! You can contact me via email, or connect with me on social media. Let's 
-       create something amazing together!"
+      &ldquo;Feel free to reach out if you have any questions or if you&lsquo;d like to collaborate. 
+      Whether you need help with web design or just want to connect, I&lsquo;d be happy to hear
+       from you! You can contact me via email, or connect with me on social media. Let&lsquo;s 
+       create something amazing together!&ldquo;
       </p>
     </div>
     <div className="lg:w-1/2 md:w-2/3 mx-auto">

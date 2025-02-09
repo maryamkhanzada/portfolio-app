@@ -16,7 +16,7 @@ const About = () => {
           <Image
             className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
             alt="hero"
-            src="/images/img31.jpg"
+            src="/images/img31.webp"
             width={400}
             height={300}
           />
